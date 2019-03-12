@@ -1,6 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 welcome to the 
 bangalore
 =======
 welcome to bangalore
 >>>>>>> refs/remotes/origin/master
+=======
+
+welcome to the 
+bangalore
+
+
+
+>>>>>>> origin
