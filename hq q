@@ -1,0 +1,120 @@
+[33mcommit 47840610d181ab659efab335795c023501a88170[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: jyothi <jyothinp17@gmail.com>
+Date:   Mon Apr 1 16:24:08 2019 +0530
+
+     new files created
+
+[33mcommit fef90f57ee390b76c7827769a8e4db7da3ca1907[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jyothi <jyothinp17@gmail.com>
+Date:   Tue Mar 12 12:58:56 2019 +0530
+
+    g file commited
+
+[33mcommit f95dcf1b0386017654367e121b57a82dc6a485f7[m
+Merge: e63d09f bd874ed
+Author: jyothi <jyothinp17@gmail.com>
+Date:   Tue Mar 12 12:44:29 2019 +0530
+
+    a and f commited
+
+[33mcommit e63d09f1d5e2c82a4e3eba315f6caa4903192b23[m
+Merge: 72184df 40c9608
+Author: jyothi <jyothinp17@gmail.com>
+Date:   Tue Mar 12 12:43:02 2019 +0530
+
+    commited
+
+[33mcommit bd874ed7ef532ecdfccb597684079450d8861418[m
+Author: Jyothipamula <36752359+Jyothipamula@users.noreply.github.com>
+Date:   Tue Mar 12 12:35:18 2019 +0530
+
+    Create f.txt
+    
+    new file from git hub
+
+[33mcommit 72184dff67d9f31ae250742459be699dc159b6d0[m
+Author: jyothi <jyothinp17@gmail.com>
+Date:   Tue Mar 12 12:29:03 2019 +0530
+
+    Revert "new message"
+    
+    This reverts commit 87676fca5d31b3dda9964b27e2a3958ae9550f82.
+
+[33mcommit b0bb43bf8e6508b82c3052a6a166b91877510abd[m
+Author: jyothi <jyothinp17@gmail.com>
+Date:   Tue Mar 12 12:26:57 2019 +0530
+
+    cd added
+
+[33mcommit 87676fca5d31b3dda9964b27e2a3958ae9550f82[m
+Author: jyothi <jyothinp17@gmail.com>
+Date:   Tue Mar 12 12:26:34 2019 +0530
+
+    new message
+
+[33mcommit 28a65fe8a68d37d6e5ea5de01d431ba22d39f571[m
+Merge: 21e192b 40c9608
+Author: jyothi <jyothinp17@gmail.com>
+Date:   Tue Mar 12 12:22:03 2019 +0530
+
+    merge
+
+[33mcommit 21e192ba0db5760db2561193ec6ef16b63ee2ab4[m
+Author: jyothi <jyothinp17@gmail.com>
+Date:   Tue Mar 12 12:17:50 2019 +0530
+
+    new files created
+
+[33mcommit b537796ff8e9339cd9f366a14871717d1b154aae[m
+Author: jyothi <jyothinp17@gmail.com>
+Date:   Tue Mar 12 12:12:09 2019 +0530
+
+    again commited
+
+[33mcommit 40c960894cf1f5ca89ddc8cb1d16bf9bff8565ab[m
+Author: jyothi <jyothinp17@gmail.com>
+Date:   Mon Mar 11 20:49:36 2019 +0530
+
+    new commit
+
+[33mcommit 0663f401a8c6267f4509a7da15febe94ad99538e[m
+Merge: 2f554b1 848fb2a
+Author: Jyothipamula <36752359+Jyothipamula@users.noreply.github.com>
+Date:   Mon Dec 10 13:16:27 2018 +0530
+
+    Merge pull request #2 from Jyothipamula/revert-1-Jyothipamula-patch-1
+    
+    Revert "newfile2 created"
+
+[33mcommit 848fb2acf82dded81a539770f7e351d887410cf7[m
+Author: Jyothipamula <36752359+Jyothipamula@users.noreply.github.com>
+Date:   Mon Dec 10 13:16:00 2018 +0530
+
+    Revert "newfile2 created"
+
+[33mcommit 2f554b1cb9b1fd5ece2e8095bbd5f0f3afdf4472[m
+Merge: 91f2b5c be9b8ae
+Author: Jyothipamula <36752359+Jyothipamula@users.noreply.github.com>
+Date:   Mon Dec 10 13:15:45 2018 +0530
+
+    Merge pull request #1 from Jyothipamula/Jyothipamula-patch-1
+    
+    newfile2 created
+
+[33mcommit be9b8aeb6783c63ecf10de93eb35d408e30229b6[m[33m ([m[1;31morigin/Jyothipamula-patch-1[m[33m)[m
+Author: Jyothipamula <36752359+Jyothipamula@users.noreply.github.com>
+Date:   Mon Dec 10 13:14:25 2018 +0530
+
+    newfile2 created
+
+[33mcommit 91f2b5c1ded16ca55e8196efffbb96633f471bba[m
+Author: Jyothipamula <36752359+Jyothipamula@users.noreply.github.com>
+Date:   Mon Dec 10 13:11:45 2018 +0530
+
+    new file created
+
+[33mcommit caeb2b93bc91a0c58e4c20c7e1a017028552373c[m
+Author: Jyothipamula <36752359+Jyothipamula@users.noreply.github.com>
+Date:   Mon Dec 10 13:03:43 2018 +0530
+
+    Initial commit
